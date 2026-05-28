@@ -1,0 +1,158 @@
+[2026-05-26 16:37:30] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-26 16:37:30] [INFO   ] === Game started ===
+[2026-05-26 16:37:34] [INFO   ] New game started. Player: k9
+[2026-05-26 16:37:34] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:53:14] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-27 10:53:14] [INFO   ] === Game started ===
+[2026-05-27 10:54:38] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-27 10:54:38] [INFO   ] === Game started ===
+[2026-05-27 10:54:39] [INFO   ] Leaderboard viewed.
+[2026-05-27 10:54:46] [INFO   ] New game started. Player: ko
+[2026-05-27 10:54:46] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:55:00] [INFO   ] AI_Alpha shows: Pair
+[2026-05-27 10:55:00] [INFO   ] AI_Beta shows: High Card
+[2026-05-27 10:55:00] [INFO   ] AI_Gamma shows: High Card
+[2026-05-27 10:55:00] [INFO   ] AI_Alpha wins $60 with Pair
+[2026-05-27 10:55:05] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:55:09] [INFO   ] AI_Alpha shows: Pair
+[2026-05-27 10:55:09] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:55:09] [INFO   ] AI_Beta wins $11780 with Pair
+[2026-05-27 10:55:15] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:55:19] [INFO   ] AI_Alpha wins $100 (all folded).
+[2026-05-27 10:55:23] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:55:47] [INFO   ] ko shows: Pair
+[2026-05-27 10:55:47] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:55:47] [INFO   ] ko wins $2180 with Pair
+[2026-05-27 10:55:52] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:56:23] [INFO   ] ko wins $560 (all folded).
+[2026-05-27 10:56:26] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:56:35] [INFO   ] AI_Beta shows: Flush
+[2026-05-27 10:56:35] [INFO   ] AI_Gamma shows: High Card
+[2026-05-27 10:56:35] [INFO   ] AI_Beta wins $40 with Flush
+[2026-05-27 10:56:38] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:56:40] [INFO   ] ko wins $30 (all folded).
+[2026-05-27 10:56:45] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:57:20] [INFO   ] ko wins $6160 (all folded).
+[2026-05-27 10:57:24] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:57:40] [INFO   ] ko shows: Pair
+[2026-05-27 10:57:40] [INFO   ] AI_Alpha shows: Pair
+[2026-05-27 10:57:40] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:57:40] [INFO   ] AI_Alpha wins $60 with Pair
+[2026-05-27 10:57:43] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-27 10:58:05] [INFO   ] ko shows: Pair
+[2026-05-27 10:58:05] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:58:05] [INFO   ] AI_Gamma shows: Pair
+[2026-05-27 10:58:05] [INFO   ] AI_Beta wins $2070 with Pair
+[2026-05-27 10:58:10] [INFO   ] --- Round started. Players in: 3 ---
+[2026-05-27 10:58:19] [INFO   ] AI_Alpha shows: Pair
+[2026-05-27 10:58:19] [INFO   ] AI_Beta shows: Three of a Kind
+[2026-05-27 10:58:19] [INFO   ] AI_Beta wins $130 with Three of a Kind
+[2026-05-27 10:58:20] [INFO   ] --- Round started. Players in: 3 ---
+[2026-05-27 10:58:38] [INFO   ] ko shows: Pair
+[2026-05-27 10:58:38] [INFO   ] AI_Beta shows: High Card
+[2026-05-27 10:58:38] [INFO   ] ko wins $120 with Pair
+[2026-05-27 10:58:39] [INFO   ] --- Round started. Players in: 3 ---
+[2026-05-27 10:59:17] [INFO   ] ko shows: Pair
+[2026-05-27 10:59:17] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:59:17] [INFO   ] ko wins $340 with Pair
+[2026-05-27 10:59:20] [INFO   ] --- Round started. Players in: 3 ---
+[2026-05-27 10:59:27] [INFO   ] --- Round started. Players in: 3 ---
+[2026-05-27 10:59:34] [INFO   ] AI_Alpha shows: High Card
+[2026-05-27 10:59:34] [INFO   ] AI_Beta shows: Pair
+[2026-05-27 10:59:34] [INFO   ] AI_Beta wins $50 with Pair
+[2026-05-27 10:59:37] [INFO   ] --- Round started. Players in: 2 ---
+[2026-05-27 11:00:43] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-27 11:00:43] [INFO   ] === Game started ===
+[2026-05-27 11:00:56] [INFO   ] New game started. Player: Raitar
+[2026-05-27 11:00:56] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:01:17] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-27 11:01:17] [INFO   ] === Game started ===
+[2026-05-27 11:01:29] [INFO   ] New game started. Player: Raitar
+[2026-05-27 11:01:29] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:01:40] [INFO   ] Polina shows: Pair
+[2026-05-27 11:01:40] [INFO   ] Danik shows: Two Pair
+[2026-05-27 11:01:40] [INFO   ] R1 shows: Pair
+[2026-05-27 11:01:40] [INFO   ] R2 shows: Two Pair
+[2026-05-27 11:01:40] [INFO   ] Danik wins $50 with Two Pair
+[2026-05-27 11:01:40] [INFO   ] R2 wins $50 with Two Pair
+[2026-05-27 11:01:42] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:01:46] [INFO   ] Polina shows: Pair
+[2026-05-27 11:01:46] [INFO   ] Danik shows: Straight
+[2026-05-27 11:01:46] [INFO   ] R1 shows: Two Pair
+[2026-05-27 11:01:46] [INFO   ] R2 shows: Straight
+[2026-05-27 11:01:46] [INFO   ] Danik wins $144 with Straight
+[2026-05-27 11:01:46] [INFO   ] R2 wins $144 with Straight
+[2026-05-27 11:01:50] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:02:11] [INFO   ] Raitar shows: Pair
+[2026-05-27 11:02:11] [INFO   ] Polina shows: Pair
+[2026-05-27 11:02:11] [INFO   ] Danik shows: Pair
+[2026-05-27 11:02:11] [INFO   ] R1 shows: Pair
+[2026-05-27 11:02:11] [INFO   ] R2 shows: High Card
+[2026-05-27 11:02:11] [INFO   ] Raitar wins $3200 with Pair
+[2026-05-27 11:02:16] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:02:32] [INFO   ] Polina shows: Two Pair
+[2026-05-27 11:02:32] [INFO   ] Danik shows: Full House
+[2026-05-27 11:02:32] [INFO   ] R1 shows: Two Pair
+[2026-05-27 11:02:32] [INFO   ] R2 shows: Two Pair
+[2026-05-27 11:02:32] [INFO   ] Danik wins $920 with Full House
+[2026-05-27 11:02:36] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:02:39] [INFO   ] Polina shows: Pair
+[2026-05-27 11:02:39] [INFO   ] Danik shows: High Card
+[2026-05-27 11:02:39] [INFO   ] R1 shows: Pair
+[2026-05-27 11:02:39] [INFO   ] R2 shows: Two Pair
+[2026-05-27 11:02:39] [INFO   ] R2 wins $90 with Two Pair
+[2026-05-27 11:02:41] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:03:00] [INFO   ] Raitar shows: Pair
+[2026-05-27 11:03:00] [INFO   ] Polina shows: Pair
+[2026-05-27 11:03:00] [INFO   ] Danik shows: Pair
+[2026-05-27 11:03:00] [INFO   ] R1 shows: Pair
+[2026-05-27 11:03:00] [INFO   ] R2 shows: High Card
+[2026-05-27 11:03:00] [INFO   ] Polina wins $5000 with Pair
+[2026-05-27 11:03:09] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:03:55] [INFO   ] Raitar shows: Straight
+[2026-05-27 11:03:55] [INFO   ] Polina shows: Pair
+[2026-05-27 11:03:55] [INFO   ] Danik shows: Straight
+[2026-05-27 11:03:55] [INFO   ] Raitar wins $1900 with Straight
+[2026-05-27 11:03:55] [INFO   ] Danik wins $1900 with Straight
+[2026-05-27 11:04:05] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:04:18] [INFO   ] Polina shows: High Card
+[2026-05-27 11:04:18] [INFO   ] Danik shows: Pair
+[2026-05-27 11:04:18] [INFO   ] R1 shows: High Card
+[2026-05-27 11:04:18] [INFO   ] R2 shows: High Card
+[2026-05-27 11:04:18] [INFO   ] Danik wins $540 with Pair
+[2026-05-27 11:04:21] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:04:37] [INFO   ] Raitar shows: Two Pair
+[2026-05-27 11:04:37] [INFO   ] R2 shows: Two Pair
+[2026-05-27 11:04:37] [INFO   ] R2 wins $1280 with Two Pair
+[2026-05-27 11:04:42] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:05:02] [INFO   ] Raitar shows: Pair
+[2026-05-27 11:05:02] [INFO   ] Danik shows: Pair
+[2026-05-27 11:05:02] [INFO   ] R1 shows: Pair
+[2026-05-27 11:05:02] [INFO   ] R2 shows: Pair
+[2026-05-27 11:05:02] [INFO   ] R1 wins $420 with Pair
+[2026-05-27 11:05:05] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:05:24] [INFO   ] Polina shows: Two Pair
+[2026-05-27 11:05:24] [INFO   ] Danik shows: Pair
+[2026-05-27 11:05:24] [INFO   ] R1 shows: Two Pair
+[2026-05-27 11:05:24] [INFO   ] Polina wins $80 with Two Pair
+[2026-05-27 11:05:31] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-27 11:05:36] [INFO   ] Polina shows: Pair
+[2026-05-27 11:05:36] [INFO   ] Danik shows: Pair
+[2026-05-27 11:05:36] [INFO   ] R1 shows: Two Pair
+[2026-05-27 11:05:36] [INFO   ] R2 shows: Pair
+[2026-05-27 11:05:36] [INFO   ] R1 wins $80 with Two Pair
+[2026-05-27 11:05:41] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-28 16:02:49] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-28 16:02:49] [INFO   ] === Game started ===
+[2026-05-28 16:03:13] [INFO   ] New game started. Player: TestPlayer
+[2026-05-28 16:03:13] [INFO   ] --- Round started. Players in: 5 ---
+[2026-05-28 16:03:58] [INFO   ] Config loaded from config.ini | chips=4000 sb=10 bb=20 log=poker.log
+[2026-05-28 16:03:58] [INFO   ] === Game started ===
+[2026-05-28 16:04:04] [INFO   ] New game started. Player: TestPlayer
+[2026-05-28 16:04:04] [INFO   ] --- Round started. Players in: 4 ---
+[2026-05-28 16:05:22] [INFO   ] TestPlayer shows: High Card
+[2026-05-28 16:05:22] [INFO   ] Bot2 shows: Three of a Kind
+[2026-05-28 16:05:22] [INFO   ] Bot2 wins $474 with Three of a Kind
+[2026-05-28 16:05:41] [INFO   ] Player TestPlayer cashed out with $3783
+[2026-05-28 16:05:43] [INFO   ] Leaderboard viewed.
+[2026-05-28 16:05:55] [INFO   ] Rules viewed.
