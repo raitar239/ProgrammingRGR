@@ -1,4 +1,0 @@
-/mnt/c/Users/1/Desktop/TP/build/CMakeFiles/poker.dir
-/mnt/c/Users/1/Desktop/TP/build/CMakeFiles/run_tests.dir
-/mnt/c/Users/1/Desktop/TP/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/1/Desktop/TP/build/CMakeFiles/rebuild_cache.dir
